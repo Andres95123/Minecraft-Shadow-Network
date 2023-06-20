@@ -14,6 +14,8 @@ Este proyecto tiene como objetivo proporcionar la solución definitiva más fác
 
 4. **Panel de administración avanzado**: Nuestra herramienta proporciona un panel especializado para la administración avanzada del servidor. A través de esta interfaz, los usuarios podrán realizar tareas como el monitoreo en tiempo real, la administración del servidor, Schedules de comandos o reinicios, y guardar de forma rapida el LOG. El panel de administración ofrece una experiencia intuitiva y amigable para simplificar las tareas de gestión.
 
+5. **Puertos Automaticos**: Permite a los usuarios abrir de forma automatica los puertos, evitando asi que los usuarios con menos conocimientos se queden estancados a la hora de abrir su propio servidor. Aun asi, no es totalmente definitivo y puede fallar si el router no admite este tipo de interacción, para aquellos usuarios y para los más avanzados, siempre se podrá abrir de forma manual.
+
 ## Capturas de pantalla
 
 A continuación, se presentan algunas capturas de pantalla que muestran la interfaz y las funcionalidades del proyecto:

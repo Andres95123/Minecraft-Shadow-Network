@@ -22,19 +22,19 @@ A continuación, se presentan algunas capturas de pantalla que muestran la inter
 
 1. **Creación automática de servidores**:
 
-![Captura de pantalla - Creación automática de servidores](ruta/imagen/creacion_servidor.png)
+![Captura de pantalla - Creación automática de servidores](images/ShadowNetwork1.PNG)
 
 2. **Modificación intuitiva de `server.properties`**:
 
-![Captura de pantalla - Modificación de server.properties](ruta/imagen/modificacion_server_properties.png)
+![Captura de pantalla - Modificación de server.properties](images/ShadowNetwork2.PNG)
 
 3. **Backups automáticos**:
 
-![Captura de pantalla - Backups automáticos](ruta/imagen/backups_automaticos.png)
+![Captura de pantalla - Backups automáticos](images/ShadowNetwork3.PNG)
 
 4. **Panel de administración avanzado**:
 
-![Captura de pantalla - Panel de administración](ruta/imagen/panel_administracion.png)
+![Captura de pantalla - Panel de administración](images/ShadowNetwork4.PNG)
 
 ## Requisitos y Configuración
 
